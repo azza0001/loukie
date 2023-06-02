@@ -11,4 +11,7 @@ The objective of PRJ-L is to consolidate power and maintain a tight-knit network
 
 As the original party member and the embodiment of absolute authority, Lou holds immense power and influence within PRJ-L. Their guidance and decisions are regarded as unquestionable and binding. Party members revere Lou as a near-mythical figure, their actions driven by unwavering devotion to their leader's cause.
 
-[Operation-0001](./Operation-0001.html).
+#### Operation Operandi
+
+* [Operation-0001](./Operation-0001.html).
+* [Operation-0002](./)
