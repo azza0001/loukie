@@ -10,6 +10,4 @@ The objective of PRJ-L is to consolidate power and maintain a tight-knit network
 
 As the original party member and the embodiment of absolute authority, Lou holds immense power and influence within PRJ-L. Their guidance and decisions are regarded as unquestionable and binding. Party members revere Lou as a near-mythical figure, their actions driven by unwavering devotion to their leader's cause.
 
-Under the cover of Operation-0001, Project-Lou (PRJ-L) aims to expand its influence and maintain control over key sectors of society, advancing their party's goals through any means necessary. The absolute loyalty and dedication of its members make PRJ-L a formidable force, capable of achieving its objectives with unwavering determination.
-
 [Operation-0001](./another-page.html).
