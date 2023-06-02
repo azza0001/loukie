@@ -3,8 +3,6 @@ layout: default
 ---
 # Project-Lou
 
-### Party Members: (...), (...), (...), _(Lou)_ & (###)_(disclosed)_.
-
 Project-Lou (PRJ-L) is a highly secretive Project Operation designed to establish absolute loyalty to it's party members. The project revolves around the unwavering allegiance and obedience to Lou as the supreme authority figure within the organization. Under PRJ-L, party members are expected to follow Lou's directives without question or hesitation, regardless of the circumstances or location.
 
 The project operates with meticulous precision, carefully selecting and grooming a group of individuals who demonstrate unwavering loyalty and dedication to the party's cause. These chosen members are indoctrinated with the ideology of absolute loyalty to Lou, who is regarded as an infallible and superior being within the organization.
